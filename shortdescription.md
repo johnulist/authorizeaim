@@ -1,0 +1,1 @@
+The thirty bees Authorize.net module allows your site to accept payments using the Authorize.net payment gateway.
